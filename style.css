@@ -1,0 +1,60 @@
+
+.d-block{
+    height: 600px;
+    
+}
+.row{
+    display: flex;
+    flex-wrap:wrap; 
+}
+.fa-car-side{
+    color: blue;
+}
+.fa-location-dot{
+    color: brown;
+}
+.fa-envelopes-bulk{
+    color: blue;
+}
+.fa-phone{
+    color: black;
+}
+.div2{
+    background-color: rgb(44, 75, 110);
+    padding: 60px;
+}
+.btn1{
+    border-radius: 15px;
+    background-color: red;
+    color: white;
+    border: none;
+}
+.txt{
+    color: white;
+}
+.inp{
+    border-radius: 10px;
+    border: none;
+    width: 150px;
+}
+.container1{
+    background-color:rgb(89, 90, 23) ;
+}
+ li{
+    list-style: none;
+   
+}
+body{
+    background-color: rgb(7, 35, 46);
+    color: white;
+}
+
+.navbar-nav{
+    margin-left: 400px;
+
+}
+.ee{
+    margin-left: 400px;
+    color:black;
+}
+
